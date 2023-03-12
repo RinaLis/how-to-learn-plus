@@ -11,3 +11,8 @@
   .footer__column-link:nth-child(3n) {
     margin-bottom: 16px;
   }
+
+  .footer__column-link:hover {
+    opacity: 0.5;
+    transition: opacity 1s;
+  }
