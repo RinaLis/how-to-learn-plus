@@ -1,15 +1,7 @@
 .two-columns {
-    
     width: 80%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-  }
-
-  .two-columns:nth-child(-2n+2) {
-    margin-top: 160px;
-  }
-
-  .two-columns:first-child {
     margin-top: 100px;
   }
