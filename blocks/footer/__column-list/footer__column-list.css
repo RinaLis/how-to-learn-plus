@@ -1,0 +1,8 @@
+.footer__column-list {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.footer__column-list:nth-child(3n) {
+  margin-bottom: 16px;
+}
