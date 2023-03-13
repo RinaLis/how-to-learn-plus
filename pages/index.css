@@ -72,8 +72,3 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/link/link.css);
-
-
-* {
-    border: 1px solid red;
-}
